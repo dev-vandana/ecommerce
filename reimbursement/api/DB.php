@@ -4,7 +4,7 @@ class DB
 {    
     private $_host = 'localhost';
     private $_username = 'root';
-    private $_password = 'ada';
+    private $_password = '';
     private $_database = 'ecommerce_assignment';
     
     protected $connection;
